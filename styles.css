@@ -1,0 +1,19 @@
+.header {
+    background-color: #4CAF50;
+    color: coral;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+
+
+body {
+    h1 {
+        color: coral;
+    }
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color:rgba(126, 125, 125, 0.893);
+}
